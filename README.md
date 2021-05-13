@@ -3,9 +3,9 @@
 
 Exemplo
 
+No terminal, dentro da pasta simplexlsx, execute o comando:
 
-```
-batch
+``` batch
 sudo php cli.php examples/base_watts_solar/lista_final_parte_4.xlsx 4
 ```
 
